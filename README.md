@@ -30,5 +30,9 @@ PHMSA Hazardous Liquid Accident Dataset
 Project Type:
 Enterprise Analytics | Pipeline Integrity | Operational Risk | Asset Risk | HSE Analytics
 
+All portfolio artefacts is also available on google drive:
+
+https://drive.google.com/drive/folders/1gR_7GrXGZlezAN1bP5OboqhZtvWjkSwo?usp=sharing
+
 
 Data Disclaimer: Keystra Energy Group is a fictitious organisation created for this portfolio. All HSE data are synthetic and generated specifically for this project. This solution is a proof of concept and has not been deployed or tested within a real company. Findings should not be interpreted as actual company performance.
